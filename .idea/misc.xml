@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/quaya/AndroidStudioProjects/WeekCalendar_PracticeB/app/src/main/res/layout/activity_event_edit.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/quaya/AndroidStudioProjects/WeekCalendar_PracticeB/app/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/quaya/AndroidStudioProjects/WeekCalendar_PracticeB/app/src/main/res/layout/activity_week_view.xml" value="0.2390625" />
+        <entry key="..\:/Users/quaya/AndroidStudioProjects/WeekCalendar_PracticeB/app/src/main/res/layout/calendar_cell.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/quaya/AndroidStudioProjects/WeekCalendar_PracticeB/app/src/main/res/layout/event_cell.xml" value="0.2526041666666667" />
         <entry key="..\:/Users/quaya/AndroidStudioProjects/java_api29_230104_CodeWithCal_Calendar/app/src/main/res/layout/activity_main.xml" value="0.2669138090824838" />
         <entry key="..\:/Users/quaya/AndroidStudioProjects/java_api29_230104_CodeWithCal_Calendar/app/src/main/res/layout/calendar_cell.xml" value="0.2526041666666667" />
       </map>
